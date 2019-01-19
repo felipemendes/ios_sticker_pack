@@ -1,7 +1,10 @@
 {
   "stickers" : [
     {
-      "filename" : "300.sticker"
+      "filename" : "app.sticker"
+    },
+    {
+      "filename" : "logo.sticker"
     }
   ],
   "info" : {
